@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrLebel or Lebel for the homies n.n!
-- 👀 I’m interested in learning how to rice Linux, anime and Backend Development
-- 🌱 I’m currently learning OS, Java and Spring
+- 👀 I’m interested on how to rice Linux, anime and Fullstack Development
+- 🌱 I’m currently learning OS, JavaScript and Angular!
 - 🗿 I know English and Spanish u.u
 - 🥵 You can reach me via Twitter @ThyLebelSr
 <!---
