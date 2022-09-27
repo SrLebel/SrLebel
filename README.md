@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrLebel or Lebel for the homies n.n!
 - 👀 I’m interested on Linux and Fullstack Development
-- 🌱 I’m currently learning OS, JavaScript and Angular!
+- 🌱 I’m currently learning OS, JavaScript!
 - 🗿 I know English and Spanish u.u
 - 🥵 You can reach me via Twitter @ThyLebelSr
 <!---
